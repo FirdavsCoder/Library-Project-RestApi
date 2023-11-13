@@ -12,19 +12,18 @@ npm run dev
 
 🔗 User Requests: 
 ```http request
-// Get All Users
-// Method GET
-users
+# Get All Users
+
+http://localhost:3000/users
+
 ```
 
 ```http request
-// Get User By Id
-// Method: GET
-users/:id
+# Get User By Id
+http://localhost:3000/users/{id}
 ```
 
 ```http request
-// Create User
-// Method: POST
-users
+# Create user with POST request 
+http://localhost:3000/users
 ```
