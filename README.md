@@ -11,15 +11,15 @@ npm run dev
 ```
 
 🔗 User Requests: 
-```http request
+``
 http://localhost:3000/users
 
-```
+``
 
-```http request
+``
 http://localhost:3000/users/{id}
-```
+``
 
-```http request
+``
 http://localhost:3000/users
-```
+``
