@@ -14,17 +14,17 @@ npm run dev
 ```http request
 // Get All Users
 // Method GET
-/users
+users
 ```
 
 ```http request
 // Get User By Id
 // Method: GET
-/users/:id
+users/:id
 ```
 
 ```http request
 // Create User
 // Method: POST
-/users
+users
 ```
